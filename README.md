@@ -1,7 +1,7 @@
-👋 Hi, I’m @Mahwish4
-👀 I’m interested in learning all about QA Engineer
-🌱 I’m currently learning Selenium
-⚡ Fun fact: I love to cook, arrange family get toghether and travel around the world :D
+👋 Hi, I’m @MahwishRehman.    
+👀 I’m interested in learning all about QA Engineer.    
+🌱 I’m currently learning Selenium.    
+⚡ Fun fact: I love to cook, arrange family get toghether and travel around the world :D    
 
 <!---
 MahwishRehman/MahwishRehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
