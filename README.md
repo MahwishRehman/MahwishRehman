@@ -1,6 +1,5 @@
 👋 Hi, I’m @MahwishRehman.    
-👀 I’m interested in learning all about QA Engineer.    
-🌱 I’m currently learning Selenium.    
+👀 I’m interested in learning all about QA Engineer.     
 ⚡ Fun fact: I love to cook, arrange family get toghether and travel around the world :D    
 
 <!---
